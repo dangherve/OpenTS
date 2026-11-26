@@ -60,3 +60,5 @@ manual/data/.manual-generate-*/
 
 # Owner-local documents (untracked adjudication material)
 /docs/local/
+
+!buildTools
